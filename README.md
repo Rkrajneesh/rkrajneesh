@@ -1,25 +1,47 @@
-<h1 align="center">Hi 👋, I'm Rajneesh Kumar</h1>
-<h3 align="center">A passionate Software developer from India</h3>
+# ⚡ Rajneesh Kumar | Senior Software Engineer
+**Backend Architect | Java Ecosystem Expert | System Optimizer**
 
-- 🔭 I’ve worked on [Url-Shortner](https://github.com/Rkrajneesh/URL-Shortner)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/rkrajneesh-kumar)
+[![Location](https://img.shields.io/badge/Location-Noida%2C%20India-orange?style=flat-square)](https://google.com/maps/place/Noida)
+[![Tech Stack](https://img.shields.io/badge/Stack-Java%20%7C%20Spring%20%7C%20AWS-green?style=flat-square)](https://github.com/rkrajneesh)
 
-- 🌱 I’m currently learning **Namaste React**
+---
 
-- 👯 I’ve worked on [Shopping-Cart Clone](https://github.com/Rkrajneesh/shopping-cart)
+### 🛠️ Core Engineering Philosophy
+> "Building for the next 100k users by mastering JVM internals and implementing clean, event-driven architectures today."
 
-- 💬 Ask me about **Java, Spring-Boot, Mysql, JavaScript**
+I am a **Senior Software Engineer** with **4+ years of expertise** in the Java/Spring ecosystem. I specialize in transforming complex business requirements into high-throughput, low-latency microservices.My focus is on **System Reliability** and **Architectural Ownership**.
 
-- 📫 How to reach me **rkrajneesh91@gmail.com**
+---
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1pCWMy7q-vOAgBFk5VAeQjECRHfOrVYHuY2Ayjlbw6iA/edit?usp=sharing](https://docs.google.com/document/d/1pCWMy7q-vOAgBFk5VAeQjECRHfOrVYHuY2Ayjlbw6iA/edit?usp=sharing)
+### 🚀 Technical Impact at Scale
+* **Performance Engineering**: Re-engineered high-volume data modules for **100k+ concurrent records**, slashing query response times by **25%**.
+* **System Efficiency**: Optimized automated messaging engines using asynchronous processing, boosting throughput by **30%**.
+* **Infrastructure Reliability**: Improved service uptime by **15%** through custom AWS-integrated monitoring and alerting tools.
+* **Security Hardening**: Reduced unauthorized system access attempts by **50%** by implementing robust **RBAC** via Spring Security.
+* **Modern Workflow**: Power-user of **AI-augmented coding tools** (Cursor, Claude Code) to maintain a high-velocity, high-quality development lifecycle.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/rkrajneesh91" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rkrajneesh91" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/rkrajneesh-kumar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rkrajneesh-kumar/" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/rkrajneesh91" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/rkrajneesh91" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/rkrajneesh94/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/rkrajneesh94/" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+### 🧰 The Senior Toolkit
+
+| Backend Mastery | Cloud & DevOps | Frontend & Tools |
+| :--- | :--- | :--- |
+| **Java 8/11/17**, Spring Boot | **AWS** (SQS, SES, S3) | **Next.js**, React |
+| Spring Cloud, Microservices | **Docker**, Docker Compose | **Cursor AI**, Claude Code |
+| Event-Driven Architecture (EDA) | **CI/CD**, Maven, Git | JavaScript, HTML/CSS |
+| PostgreSQL, MySQL, Redis | **RESTful API** Design | Technical Leadership |
+
+---
+
+### 📂 Featured Engineering Lab
+* **[rkrajneesh-portfolio](https://github.com/rkrajneesh/rkrajneesh-portfolio)**: A modern, high-performance Next.js application demonstrating a bridge between enterprise backend logic and clean frontend architecture.
+* **Real-time Messaging**: Architected a low-latency communication platform using **WebSocket & STOMP**, increasing user engagement by **40%**.
+
+---
+
+### 📬 Connect with Me
+* **Professional**: [linkedin.com/in/rkrajneesh-kumar](https://linkedin.com/in/rkrajneesh-kumar)
+* **Inquiries**: [rajneesh11263@gmail.com](mailto:rajneesh11263@gmail.com)
+
+*"Optimizing systems for the human experience."*
